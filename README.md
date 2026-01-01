@@ -1,3 +1,8 @@
+SAIYIDAH NAFISAH BINTI ROSLI
+2024287408
+CDCS2703B
+SIR MUHAMMAD ATIF BIN RAMLAN
+In this lab exercise, I used Angular CLI with Supa base and Firebase connectivity to create a real-time chat application. The goal of this project is to introduce the idea of contemporary web application development, which includes database management, frontend, backend, and authentication. I gained an understanding of how various technologies can be integrated to create responsive, real-time apps through this exercise. 
 <!-- ## Database Table Schema -->
 ## users table
 
